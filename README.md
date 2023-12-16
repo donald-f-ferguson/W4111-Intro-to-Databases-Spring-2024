@@ -1,1 +1,1 @@
-# W4111 - Intro. to Databases (Spring, 2024, 002)
+# W4111 - Intro. to Databases<br>Spring 2024<br>Section 002
