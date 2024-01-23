@@ -1,2 +1,2 @@
-# Intro-to-Databases-F23
-Course repository and website for COMS W4111 -- Intro. to Databases, Fall 2023
+# Intro-to-Databases-S24
+Course repository and website for COMS W4111 -- Intro to Databases, Spring 2024
