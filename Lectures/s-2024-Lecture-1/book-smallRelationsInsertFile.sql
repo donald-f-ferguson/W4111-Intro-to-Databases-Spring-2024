@@ -1,4 +1,4 @@
-use db_book;
+use db_book_lecture;
 
 insert into classroom values ('Packard', '101', '500');
 insert into classroom values ('Painter', '514', '10');
