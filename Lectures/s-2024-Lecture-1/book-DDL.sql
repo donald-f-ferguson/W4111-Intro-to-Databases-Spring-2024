@@ -2,11 +2,11 @@
 
 -- noinspection SqlNoDataSourceInspectionForFile
 
-drop schema if exists db_book_lecture;
+drop schema if exists db_book;
 
-create schema db_book_lecture;
+create schema db_book;
 
-use db_book_lecture;
+use db_book;
 
 create table classroom
 	(building		varchar(15),
