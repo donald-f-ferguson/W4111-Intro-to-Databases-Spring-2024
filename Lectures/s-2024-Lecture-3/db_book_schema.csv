@@ -1,0 +1,61 @@
+dbms,TABLE_SCHEMA,TABLE_NAME,COLUMN_NAME,ORDINAL_POSITION,DATA_TYPE,CHARACTER_MAXIMUM_LENGTH,CONSTRAINT_TYPE,REFERENCED_TABLE_SCHEMA,REFERENCED_TABLE_NAME,REFERENCED_COLUMN_NAME
+mysql,db_book,advisor,s_ID,1,varchar,5.0,PRIMARY KEY,,,
+mysql,db_book,advisor,s_ID,1,varchar,5.0,FOREIGN KEY,db_book,student,ID
+mysql,db_book,advisor,i_ID,2,varchar,5.0,FOREIGN KEY,db_book,instructor,ID
+mysql,db_book,classroom,building,1,varchar,15.0,PRIMARY KEY,,,
+mysql,db_book,classroom,room_number,2,varchar,7.0,PRIMARY KEY,,,
+mysql,db_book,classroom,capacity,3,decimal,,,,,
+mysql,db_book,course,course_id,1,varchar,8.0,PRIMARY KEY,,,
+mysql,db_book,course,title,2,varchar,50.0,,,,
+mysql,db_book,course,dept_name,3,varchar,20.0,FOREIGN KEY,db_book,department,dept_name
+mysql,db_book,course,credits,4,decimal,,,,,
+mysql,db_book,department,dept_name,1,varchar,20.0,PRIMARY KEY,,,
+mysql,db_book,department,building,2,varchar,15.0,,,,
+mysql,db_book,department,budget,3,decimal,,,,,
+mysql,db_book,instructor,ID,1,varchar,5.0,PRIMARY KEY,,,
+mysql,db_book,instructor,name,2,varchar,20.0,,,,
+mysql,db_book,instructor,dept_name,3,varchar,20.0,FOREIGN KEY,db_book,department,dept_name
+mysql,db_book,instructor,salary,4,decimal,,,,,
+mysql,db_book,prereq,course_id,1,varchar,8.0,PRIMARY KEY,,,
+mysql,db_book,prereq,course_id,1,varchar,8.0,FOREIGN KEY,db_book,course,course_id
+mysql,db_book,prereq,prereq_id,2,varchar,8.0,PRIMARY KEY,,,
+mysql,db_book,prereq,prereq_id,2,varchar,8.0,FOREIGN KEY,db_book,course,course_id
+mysql,db_book,section,course_id,1,varchar,8.0,PRIMARY KEY,,,
+mysql,db_book,section,course_id,1,varchar,8.0,FOREIGN KEY,db_book,course,course_id
+mysql,db_book,section,sec_id,2,varchar,8.0,PRIMARY KEY,,,
+mysql,db_book,section,semester,3,varchar,6.0,PRIMARY KEY,,,
+mysql,db_book,section,year,4,decimal,,PRIMARY KEY,,,
+mysql,db_book,section,building,5,varchar,15.0,FOREIGN KEY,db_book,classroom,building
+mysql,db_book,section,room_number,6,varchar,7.0,FOREIGN KEY,db_book,classroom,room_number
+mysql,db_book,section,time_slot_id,7,varchar,4.0,,,,
+mysql,db_book,student,ID,1,varchar,5.0,PRIMARY KEY,,,
+mysql,db_book,student,name,2,varchar,20.0,,,,
+mysql,db_book,student,dept_name,3,varchar,20.0,FOREIGN KEY,db_book,department,dept_name
+mysql,db_book,student,tot_cred,4,decimal,,,,,
+mysql,db_book,takes,ID,1,varchar,5.0,PRIMARY KEY,,,
+mysql,db_book,takes,ID,1,varchar,5.0,FOREIGN KEY,db_book,student,ID
+mysql,db_book,takes,course_id,2,varchar,8.0,PRIMARY KEY,,,
+mysql,db_book,takes,course_id,2,varchar,8.0,FOREIGN KEY,db_book,section,course_id
+mysql,db_book,takes,sec_id,3,varchar,8.0,PRIMARY KEY,,,
+mysql,db_book,takes,sec_id,3,varchar,8.0,FOREIGN KEY,db_book,section,sec_id
+mysql,db_book,takes,semester,4,varchar,6.0,PRIMARY KEY,,,
+mysql,db_book,takes,semester,4,varchar,6.0,FOREIGN KEY,db_book,section,semester
+mysql,db_book,takes,year,5,decimal,,PRIMARY KEY,,,
+mysql,db_book,takes,year,5,decimal,,FOREIGN KEY,db_book,section,year
+mysql,db_book,takes,grade,6,varchar,2.0,,,,
+mysql,db_book,teaches,ID,1,varchar,5.0,PRIMARY KEY,,,
+mysql,db_book,teaches,ID,1,varchar,5.0,FOREIGN KEY,db_book,instructor,ID
+mysql,db_book,teaches,course_id,2,varchar,8.0,PRIMARY KEY,,,
+mysql,db_book,teaches,course_id,2,varchar,8.0,FOREIGN KEY,db_book,section,course_id
+mysql,db_book,teaches,sec_id,3,varchar,8.0,PRIMARY KEY,,,
+mysql,db_book,teaches,sec_id,3,varchar,8.0,FOREIGN KEY,db_book,section,sec_id
+mysql,db_book,teaches,semester,4,varchar,6.0,PRIMARY KEY,,,
+mysql,db_book,teaches,semester,4,varchar,6.0,FOREIGN KEY,db_book,section,semester
+mysql,db_book,teaches,year,5,decimal,,PRIMARY KEY,,,
+mysql,db_book,teaches,year,5,decimal,,FOREIGN KEY,db_book,section,year
+mysql,db_book,time_slot,time_slot_id,1,varchar,4.0,PRIMARY KEY,,,
+mysql,db_book,time_slot,day,2,varchar,1.0,PRIMARY KEY,,,
+mysql,db_book,time_slot,start_hr,3,decimal,,PRIMARY KEY,,,
+mysql,db_book,time_slot,start_min,4,decimal,,PRIMARY KEY,,,
+mysql,db_book,time_slot,end_hr,5,decimal,,,,,
+mysql,db_book,time_slot,end_min,6,decimal,,,,,
