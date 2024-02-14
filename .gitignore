@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
 /DONOTSHARE/
+.idea
+.DS_Store
+venv
+__pycache__
