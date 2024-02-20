@@ -1,0 +1,2197 @@
+[{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774d4"
+  },
+  "seasonNum": 1,
+  "episodeNum": 1,
+  "sceneNum": 9,
+  "characterName": "Waymar Royce",
+  "killedBy": "White Walker"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774d4"
+  },
+  "seasonNum": 1,
+  "episodeNum": 1,
+  "sceneNum": 12,
+  "characterName": "Gared",
+  "killedBy": "White Walker"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774d4"
+  },
+  "seasonNum": 1,
+  "episodeNum": 1,
+  "sceneNum": 14,
+  "characterName": "Will",
+  "killedBy": "Eddard Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774d4"
+  },
+  "seasonNum": 1,
+  "episodeNum": 1,
+  "sceneNum": 16,
+  "characterName": "Jon Arryn",
+  "killedBy": "Lysa Arryn"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774d5"
+  },
+  "seasonNum": 1,
+  "episodeNum": 2,
+  "sceneNum": 12,
+  "characterName": "Catspaw Assassin",
+  "killedBy": "Summer"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774d5"
+  },
+  "seasonNum": 1,
+  "episodeNum": 2,
+  "sceneNum": 25,
+  "characterName": "Mycah",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774d5"
+  },
+  "seasonNum": 1,
+  "episodeNum": 2,
+  "sceneNum": 29,
+  "characterName": "Lady",
+  "killedBy": "Eddard Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774d7"
+  },
+  "seasonNum": 1,
+  "episodeNum": 4,
+  "sceneNum": 25,
+  "characterName": "Hugh of the Vale",
+  "killedBy": "Gregor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774d8"
+  },
+  "seasonNum": 1,
+  "episodeNum": 5,
+  "sceneNum": 27,
+  "characterName": "Jory Cassel",
+  "killedBy": "Jaime Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774d9"
+  },
+  "seasonNum": 1,
+  "episodeNum": 6,
+  "sceneNum": 5,
+  "characterName": "Stiv",
+  "killedBy": "Theon Greyjoy"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774d9"
+  },
+  "seasonNum": 1,
+  "episodeNum": 6,
+  "sceneNum": 5,
+  "characterName": "Wallen",
+  "killedBy": "Robb Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774d9"
+  },
+  "seasonNum": 1,
+  "episodeNum": 6,
+  "sceneNum": 14,
+  "characterName": "Vardis Egen",
+  "killedBy": "Bronn"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774d9"
+  },
+  "seasonNum": 1,
+  "episodeNum": 6,
+  "sceneNum": 18,
+  "characterName": "Viserys Targaryen",
+  "killedBy": "Khal Drogo"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774da"
+  },
+  "seasonNum": 1,
+  "episodeNum": 7,
+  "sceneNum": 21,
+  "characterName": "Robert Baratheon",
+  "killedBy": "Boar"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774db"
+  },
+  "seasonNum": 1,
+  "episodeNum": 8,
+  "sceneNum": 3,
+  "characterName": "Vayon Poole",
+  "killedBy": "Lannister Guard"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774db"
+  },
+  "seasonNum": 1,
+  "episodeNum": 8,
+  "sceneNum": 5,
+  "characterName": "Syrio Forel",
+  "killedBy": "Meryn Trant"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774db"
+  },
+  "seasonNum": 1,
+  "episodeNum": 8,
+  "sceneNum": 8,
+  "characterName": "Red Keep Stableboy",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774db"
+  },
+  "seasonNum": 1,
+  "episodeNum": 8,
+  "sceneNum": 20,
+  "characterName": "Othor",
+  "killedBy": "Jon Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774db"
+  },
+  "seasonNum": 1,
+  "episodeNum": 8,
+  "sceneNum": 22,
+  "characterName": "Mago",
+  "killedBy": "Khal Drogo"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774dc"
+  },
+  "seasonNum": 1,
+  "episodeNum": 9,
+  "sceneNum": 14,
+  "characterName": "Qotho",
+  "killedBy": "Jorah Mormont"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774dc"
+  },
+  "seasonNum": 1,
+  "episodeNum": 9,
+  "sceneNum": 24,
+  "characterName": "Eddard Stark",
+  "killedBy": "Ilyn Payne"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774dd"
+  },
+  "seasonNum": 1,
+  "episodeNum": 10,
+  "sceneNum": 21,
+  "characterName": "Khal Drogo",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774dd"
+  },
+  "seasonNum": 1,
+  "episodeNum": 10,
+  "sceneNum": 30,
+  "characterName": "Mirri Maz Duur",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774de"
+  },
+  "seasonNum": 2,
+  "episodeNum": 1,
+  "sceneNum": 17,
+  "characterName": "Maester Cressen",
+  "killedBy": "Maester Cressen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774de"
+  },
+  "seasonNum": 2,
+  "episodeNum": 1,
+  "sceneNum": 26,
+  "characterName": "Barra",
+  "killedBy": "Janos Slynt"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e0"
+  },
+  "seasonNum": 2,
+  "episodeNum": 3,
+  "sceneNum": 27,
+  "characterName": "Yoren",
+  "killedBy": "Amory Lorch"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e0"
+  },
+  "seasonNum": 2,
+  "episodeNum": 3,
+  "sceneNum": 28,
+  "characterName": "Lommy Greenhands",
+  "killedBy": "Polliver"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e1"
+  },
+  "seasonNum": 2,
+  "episodeNum": 4,
+  "sceneNum": 0,
+  "characterName": "Rennick",
+  "killedBy": "Grey Wind"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e1"
+  },
+  "seasonNum": 2,
+  "episodeNum": 4,
+  "sceneNum": 27,
+  "characterName": "Tortured Prisoner",
+  "killedBy": "The Tickler"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e2"
+  },
+  "seasonNum": 2,
+  "episodeNum": 5,
+  "sceneNum": 0,
+  "characterName": "Renly Baratheon",
+  "killedBy": "Melisandre"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e2"
+  },
+  "seasonNum": 2,
+  "episodeNum": 5,
+  "sceneNum": 37,
+  "characterName": "The Tickler",
+  "killedBy": "Jaqen H'ghar"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e3"
+  },
+  "seasonNum": 2,
+  "episodeNum": 6,
+  "sceneNum": 5,
+  "characterName": "Rodrik Cassel",
+  "killedBy": "Theon Greyjoy"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e3"
+  },
+  "seasonNum": 2,
+  "episodeNum": 6,
+  "sceneNum": 16,
+  "characterName": "High Septon",
+  "killedBy": "King's Landing Mob"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e3"
+  },
+  "seasonNum": 2,
+  "episodeNum": 6,
+  "sceneNum": 23,
+  "characterName": "King's Landing Rioter #1",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e3"
+  },
+  "seasonNum": 2,
+  "episodeNum": 6,
+  "sceneNum": 23,
+  "characterName": "King's Landing Rioter #2",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e3"
+  },
+  "seasonNum": 2,
+  "episodeNum": 6,
+  "sceneNum": 23,
+  "characterName": "King's Landing Rioter #3",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e3"
+  },
+  "seasonNum": 2,
+  "episodeNum": 6,
+  "sceneNum": 32,
+  "characterName": "Amory Lorch",
+  "killedBy": "Jaqen H'ghar"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e3"
+  },
+  "seasonNum": 2,
+  "episodeNum": 6,
+  "sceneNum": 42,
+  "characterName": "Drennan",
+  "killedBy": "Osha"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e3"
+  },
+  "seasonNum": 2,
+  "episodeNum": 6,
+  "sceneNum": 45,
+  "characterName": "Irri",
+  "killedBy": "Doreah"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e4"
+  },
+  "seasonNum": 2,
+  "episodeNum": 7,
+  "sceneNum": 25,
+  "characterName": "Alton Lannister",
+  "killedBy": "Jaime Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e4"
+  },
+  "seasonNum": 2,
+  "episodeNum": 7,
+  "sceneNum": 26,
+  "characterName": "Torrhen Karstark",
+  "killedBy": "Jaime Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e4"
+  },
+  "seasonNum": 2,
+  "episodeNum": 7,
+  "sceneNum": 28,
+  "characterName": "Spice King",
+  "killedBy": "Pyat Pree"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e4"
+  },
+  "seasonNum": 2,
+  "episodeNum": 7,
+  "sceneNum": 28,
+  "characterName": "Silk King",
+  "killedBy": "Pyat Pree"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e6"
+  },
+  "seasonNum": 2,
+  "episodeNum": 9,
+  "sceneNum": 44,
+  "characterName": "Matthos Seaworth",
+  "killedBy": "Bronn"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e6"
+  },
+  "seasonNum": 2,
+  "episodeNum": 9,
+  "sceneNum": 114,
+  "characterName": "Mandon Moore",
+  "killedBy": "Podrick Payne"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e7"
+  },
+  "seasonNum": 2,
+  "episodeNum": 10,
+  "sceneNum": 7,
+  "characterName": "Soldier Tom",
+  "killedBy": "Brienne of Tarth"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e7"
+  },
+  "seasonNum": 2,
+  "episodeNum": 10,
+  "sceneNum": 7,
+  "characterName": "Stark Soldier",
+  "killedBy": "Brienne of Tarth"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e7"
+  },
+  "seasonNum": 2,
+  "episodeNum": 10,
+  "sceneNum": 27,
+  "characterName": "Maester Luwin",
+  "killedBy": "Osha"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e7"
+  },
+  "seasonNum": 2,
+  "episodeNum": 10,
+  "sceneNum": 33,
+  "characterName": "Pyat Pree",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e7"
+  },
+  "seasonNum": 2,
+  "episodeNum": 10,
+  "sceneNum": 34,
+  "characterName": "Qhorin Halfhand",
+  "killedBy": "Jon Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e7"
+  },
+  "seasonNum": 2,
+  "episodeNum": 10,
+  "sceneNum": 37,
+  "characterName": "Xaro Xhoan Daxos",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e7"
+  },
+  "seasonNum": 2,
+  "episodeNum": 10,
+  "sceneNum": 37,
+  "characterName": "Doreah",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e8"
+  },
+  "seasonNum": 3,
+  "episodeNum": 1,
+  "sceneNum": 2,
+  "characterName": "Man of the Nightswatch",
+  "killedBy": "White Walker"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774e8"
+  },
+  "seasonNum": 3,
+  "episodeNum": 1,
+  "sceneNum": 5,
+  "characterName": "White Walker",
+  "killedBy": "Jeor Mormont"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774ea"
+  },
+  "seasonNum": 3,
+  "episodeNum": 3,
+  "sceneNum": 35,
+  "characterName": "Master Torturer",
+  "killedBy": "Ramsay Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774eb"
+  },
+  "seasonNum": 3,
+  "episodeNum": 4,
+  "sceneNum": 32,
+  "characterName": "Craster",
+  "killedBy": "Karl Tanner"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774eb"
+  },
+  "seasonNum": 3,
+  "episodeNum": 4,
+  "sceneNum": 35,
+  "characterName": "Jeor Mormont",
+  "killedBy": "Rast"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774eb"
+  },
+  "seasonNum": 3,
+  "episodeNum": 4,
+  "sceneNum": 43,
+  "characterName": "Kraznys mo Nakloz",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774ec"
+  },
+  "seasonNum": 3,
+  "episodeNum": 5,
+  "sceneNum": 0,
+  "characterName": "Beric Dondarrion",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774ec"
+  },
+  "seasonNum": 3,
+  "episodeNum": 5,
+  "sceneNum": 13,
+  "characterName": "Martyn Lannister",
+  "killedBy": "Rickard Karstark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774ec"
+  },
+  "seasonNum": 3,
+  "episodeNum": 5,
+  "sceneNum": 13,
+  "characterName": "Willem Lannister",
+  "killedBy": "Rickard Karstark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774ec"
+  },
+  "seasonNum": 3,
+  "episodeNum": 5,
+  "sceneNum": 17,
+  "characterName": "Rickard Karstark",
+  "killedBy": "Robb Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774ed"
+  },
+  "seasonNum": 3,
+  "episodeNum": 6,
+  "sceneNum": 22,
+  "characterName": "Ros",
+  "killedBy": "Joffrey Baratheon"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774ef"
+  },
+  "seasonNum": 3,
+  "episodeNum": 8,
+  "sceneNum": 42,
+  "characterName": "Mero",
+  "killedBy": "Daario Naharis"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774ef"
+  },
+  "seasonNum": 3,
+  "episodeNum": 8,
+  "sceneNum": 42,
+  "characterName": "Prendahl na Ghezn",
+  "killedBy": "Daario Naharis"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774ef"
+  },
+  "seasonNum": 3,
+  "episodeNum": 8,
+  "sceneNum": 48,
+  "characterName": "White Walker",
+  "killedBy": "Samwell Tarly"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f0"
+  },
+  "seasonNum": 3,
+  "episodeNum": 9,
+  "sceneNum": 24,
+  "characterName": "Old Man",
+  "killedBy": "Ygritte"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f0"
+  },
+  "seasonNum": 3,
+  "episodeNum": 9,
+  "sceneNum": 28,
+  "characterName": "Orell",
+  "killedBy": "Jon Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f0"
+  },
+  "seasonNum": 3,
+  "episodeNum": 9,
+  "sceneNum": 59,
+  "characterName": "Wendel Manderly",
+  "killedBy": "Walder Frey"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f0"
+  },
+  "seasonNum": 3,
+  "episodeNum": 9,
+  "sceneNum": 64,
+  "characterName": "Grey Wind",
+  "killedBy": "Frey Soldiers"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f0"
+  },
+  "seasonNum": 3,
+  "episodeNum": 9,
+  "sceneNum": 67,
+  "characterName": "Talisa Maegyr",
+  "killedBy": "Lothar Frey"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f0"
+  },
+  "seasonNum": 3,
+  "episodeNum": 9,
+  "sceneNum": 69,
+  "characterName": "Robb Stark",
+  "killedBy": "Roose Bolton"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f0"
+  },
+  "seasonNum": 3,
+  "episodeNum": 9,
+  "sceneNum": 70,
+  "characterName": "Catelyn Stark",
+  "killedBy": "Black Walder Rivers"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f0"
+  },
+  "seasonNum": 3,
+  "episodeNum": 9,
+  "sceneNum": 70,
+  "characterName": "Joyeuse Erenford",
+  "killedBy": "Catelyn Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f1"
+  },
+  "seasonNum": 3,
+  "episodeNum": 10,
+  "sceneNum": 27,
+  "characterName": "Frey Soldier #1",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f1"
+  },
+  "seasonNum": 3,
+  "episodeNum": 10,
+  "sceneNum": 27,
+  "characterName": "Frey Soldier #2",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f2"
+  },
+  "seasonNum": 4,
+  "episodeNum": 1,
+  "sceneNum": 54,
+  "characterName": "Polliver",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f3"
+  },
+  "seasonNum": 4,
+  "episodeNum": 2,
+  "sceneNum": 0,
+  "characterName": "Tansy",
+  "killedBy": "Ramsay's hounds"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f3"
+  },
+  "seasonNum": 4,
+  "episodeNum": 2,
+  "sceneNum": 22,
+  "characterName": "Axell Florent",
+  "killedBy": "Melisandre"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f3"
+  },
+  "seasonNum": 4,
+  "episodeNum": 2,
+  "sceneNum": 80,
+  "characterName": "Joffrey Baratheon",
+  "killedBy": "Olenna Tyrell"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f3"
+  },
+  "seasonNum": 4,
+  "episodeNum": 2,
+  "sceneNum": 80,
+  "characterName": "Joffrey Baratheon",
+  "killedBy": "Petyr Baelish"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f4"
+  },
+  "seasonNum": 4,
+  "episodeNum": 3,
+  "sceneNum": 7,
+  "characterName": "Dontos Hollard",
+  "killedBy": "Petyr Baelish"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f4"
+  },
+  "seasonNum": 4,
+  "episodeNum": 3,
+  "sceneNum": 37,
+  "characterName": "Guymon",
+  "killedBy": "Ygritte"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f4"
+  },
+  "seasonNum": 4,
+  "episodeNum": 3,
+  "sceneNum": 38,
+  "characterName": "Olly's Mother",
+  "killedBy": "Styr"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f4"
+  },
+  "seasonNum": 4,
+  "episodeNum": 3,
+  "sceneNum": 53,
+  "characterName": "Oznak zo Pahl",
+  "killedBy": "Daario Naharis"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f6"
+  },
+  "seasonNum": 4,
+  "episodeNum": 5,
+  "sceneNum": 39,
+  "characterName": "Locke",
+  "killedBy": "Hodor"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f6"
+  },
+  "seasonNum": 4,
+  "episodeNum": 5,
+  "sceneNum": 39,
+  "characterName": "Locke",
+  "killedBy": "Bran Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f6"
+  },
+  "seasonNum": 4,
+  "episodeNum": 5,
+  "sceneNum": 44,
+  "characterName": "Karl Tanner",
+  "killedBy": "Jon Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f6"
+  },
+  "seasonNum": 4,
+  "episodeNum": 5,
+  "sceneNum": 47,
+  "characterName": "Rast",
+  "killedBy": "Ghost"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f8"
+  },
+  "seasonNum": 4,
+  "episodeNum": 7,
+  "sceneNum": 3,
+  "characterName": "Old Man",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f8"
+  },
+  "seasonNum": 4,
+  "episodeNum": 7,
+  "sceneNum": 4,
+  "characterName": "Biter",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f8"
+  },
+  "seasonNum": 4,
+  "episodeNum": 7,
+  "sceneNum": 5,
+  "characterName": "Rorge",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f8"
+  },
+  "seasonNum": 4,
+  "episodeNum": 7,
+  "sceneNum": 26,
+  "characterName": "Lysa Arryn",
+  "killedBy": "Petyr Baelish"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f9"
+  },
+  "seasonNum": 4,
+  "episodeNum": 8,
+  "sceneNum": 2,
+  "characterName": "Mole's Town Whore",
+  "killedBy": "Ygritte"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f9"
+  },
+  "seasonNum": 4,
+  "episodeNum": 8,
+  "sceneNum": 2,
+  "characterName": "Kegs",
+  "killedBy": "Styr"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f9"
+  },
+  "seasonNum": 4,
+  "episodeNum": 8,
+  "sceneNum": 2,
+  "characterName": "Black Jack Bulwer",
+  "killedBy": "Tormund Giantsbane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f9"
+  },
+  "seasonNum": 4,
+  "episodeNum": 8,
+  "sceneNum": 2,
+  "characterName": "Mully",
+  "killedBy": "Styr"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f9"
+  },
+  "seasonNum": 4,
+  "episodeNum": 8,
+  "sceneNum": 10,
+  "characterName": "Ralf Kenning",
+  "killedBy": "Adrack Humble"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f9"
+  },
+  "seasonNum": 4,
+  "episodeNum": 8,
+  "sceneNum": 12,
+  "characterName": "Adrack Humble",
+  "killedBy": "Ramsay Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774f9"
+  },
+  "seasonNum": 4,
+  "episodeNum": 8,
+  "sceneNum": 32,
+  "characterName": "Oberyn Martell",
+  "killedBy": "Gregor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fa"
+  },
+  "seasonNum": 4,
+  "episodeNum": 9,
+  "sceneNum": 40,
+  "characterName": "Pypar",
+  "killedBy": "Ygritte"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fa"
+  },
+  "seasonNum": 4,
+  "episodeNum": 9,
+  "sceneNum": 52,
+  "characterName": "Thenn Warg",
+  "killedBy": "Samwell Tarly"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fa"
+  },
+  "seasonNum": 4,
+  "episodeNum": 9,
+  "sceneNum": 74,
+  "characterName": "Styr",
+  "killedBy": "Jon Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fa"
+  },
+  "seasonNum": 4,
+  "episodeNum": 9,
+  "sceneNum": 76,
+  "characterName": "Ygritte",
+  "killedBy": "Olly"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fa"
+  },
+  "seasonNum": 4,
+  "episodeNum": 9,
+  "sceneNum": 84,
+  "characterName": "Grenn",
+  "killedBy": "Mag the Mighty"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fa"
+  },
+  "seasonNum": 4,
+  "episodeNum": 9,
+  "sceneNum": 84,
+  "characterName": "Donnel Hill",
+  "killedBy": "Mag the Mighty"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fa"
+  },
+  "seasonNum": 4,
+  "episodeNum": 9,
+  "sceneNum": 84,
+  "characterName": "Cooper",
+  "killedBy": "Mag the Mighty"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fa"
+  },
+  "seasonNum": 4,
+  "episodeNum": 9,
+  "sceneNum": 84,
+  "characterName": "Mag the Mighty",
+  "killedBy": "Grenn"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fa"
+  },
+  "seasonNum": 4,
+  "episodeNum": 9,
+  "sceneNum": 84,
+  "characterName": "Mag the Mighty",
+  "killedBy": "Donnel Hill"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fa"
+  },
+  "seasonNum": 4,
+  "episodeNum": 9,
+  "sceneNum": 84,
+  "characterName": "Mag the Mighty",
+  "killedBy": "Cooper"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fb"
+  },
+  "seasonNum": 4,
+  "episodeNum": 10,
+  "sceneNum": 25,
+  "characterName": "Jojen Reed",
+  "killedBy": "Meera Reed"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fb"
+  },
+  "seasonNum": 4,
+  "episodeNum": 10,
+  "sceneNum": 37,
+  "characterName": "Shae",
+  "killedBy": "Tyrion Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fb"
+  },
+  "seasonNum": 4,
+  "episodeNum": 10,
+  "sceneNum": 39,
+  "characterName": "Tywin Lannister",
+  "killedBy": "Tyrion Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fc"
+  },
+  "seasonNum": 5,
+  "episodeNum": 1,
+  "sceneNum": 8,
+  "characterName": "White Rat",
+  "killedBy": "Son of the Harpy"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fc"
+  },
+  "seasonNum": 5,
+  "episodeNum": 1,
+  "sceneNum": 45,
+  "characterName": "Mance Rayder",
+  "killedBy": "Jon Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fd"
+  },
+  "seasonNum": 5,
+  "episodeNum": 2,
+  "sceneNum": 8,
+  "characterName": "Eyrie Guard",
+  "killedBy": "Brienne of Tarth"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fd"
+  },
+  "seasonNum": 5,
+  "episodeNum": 2,
+  "sceneNum": 38,
+  "characterName": "Son of the Harpy",
+  "killedBy": "Mossador"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fd"
+  },
+  "seasonNum": 5,
+  "episodeNum": 2,
+  "sceneNum": 41,
+  "characterName": "Mossador",
+  "killedBy": "Daario Naharis"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fe"
+  },
+  "seasonNum": 5,
+  "episodeNum": 3,
+  "sceneNum": 2,
+  "characterName": "Despondent Man",
+  "killedBy": "Jaqen H'ghar"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774fe"
+  },
+  "seasonNum": 5,
+  "episodeNum": 3,
+  "sceneNum": 27,
+  "characterName": "Janos Slynt",
+  "killedBy": "Jon Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774ff"
+  },
+  "seasonNum": 5,
+  "episodeNum": 4,
+  "sceneNum": 29,
+  "characterName": "Lead Dornish Guard",
+  "killedBy": "Bronn"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774ff"
+  },
+  "seasonNum": 5,
+  "episodeNum": 4,
+  "sceneNum": 32,
+  "characterName": "Merchant Captain",
+  "killedBy": "Obara Sand"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774ff"
+  },
+  "seasonNum": 5,
+  "episodeNum": 4,
+  "sceneNum": 43,
+  "characterName": "Second Son",
+  "killedBy": "Son of the Harpy"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd774ff"
+  },
+  "seasonNum": 5,
+  "episodeNum": 4,
+  "sceneNum": 50,
+  "characterName": "Barristan Selmy",
+  "killedBy": "Sons of the Harpy"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77500"
+  },
+  "seasonNum": 5,
+  "episodeNum": 5,
+  "sceneNum": 3,
+  "characterName": "Great Master #1",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77501"
+  },
+  "seasonNum": 5,
+  "episodeNum": 6,
+  "sceneNum": 7,
+  "characterName": "Ghita",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77502"
+  },
+  "seasonNum": 5,
+  "episodeNum": 7,
+  "sceneNum": 12,
+  "characterName": "Old Woman",
+  "killedBy": "Ramsay Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77503"
+  },
+  "seasonNum": 5,
+  "episodeNum": 8,
+  "sceneNum": 23,
+  "characterName": "Rattleshirt",
+  "killedBy": "Tormund Giantsbane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77503"
+  },
+  "seasonNum": 5,
+  "episodeNum": 8,
+  "sceneNum": 43,
+  "characterName": "Loboda",
+  "killedBy": "White Walker"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77503"
+  },
+  "seasonNum": 5,
+  "episodeNum": 8,
+  "sceneNum": 44,
+  "characterName": "White Walker",
+  "killedBy": "Jon Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77503"
+  },
+  "seasonNum": 5,
+  "episodeNum": 8,
+  "sceneNum": 46,
+  "characterName": "Karsi",
+  "killedBy": "Wight children"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77504"
+  },
+  "seasonNum": 5,
+  "episodeNum": 9,
+  "sceneNum": 38,
+  "characterName": "Shireen Baratheon",
+  "killedBy": "Melisandre"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77504"
+  },
+  "seasonNum": 5,
+  "episodeNum": 9,
+  "sceneNum": 46,
+  "characterName": "Hizdahr zo Loraq",
+  "killedBy": "Sons of the Harpy"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77505"
+  },
+  "seasonNum": 5,
+  "episodeNum": 10,
+  "sceneNum": 4,
+  "characterName": "Selyse Baratheon",
+  "killedBy": "Selyse Baratheon"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77505"
+  },
+  "seasonNum": 5,
+  "episodeNum": 10,
+  "sceneNum": 23,
+  "characterName": "Gordy",
+  "killedBy": "Stannis Baratheon"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77505"
+  },
+  "seasonNum": 5,
+  "episodeNum": 10,
+  "sceneNum": 23,
+  "characterName": "Simpson",
+  "killedBy": "Stannis Baratheon"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77505"
+  },
+  "seasonNum": 5,
+  "episodeNum": 10,
+  "sceneNum": 25,
+  "characterName": "Stannis Baratheon",
+  "killedBy": "Brienne of Tarth"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77505"
+  },
+  "seasonNum": 5,
+  "episodeNum": 10,
+  "sceneNum": 29,
+  "characterName": "Myranda",
+  "killedBy": "Theon Greyjoy"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77505"
+  },
+  "seasonNum": 5,
+  "episodeNum": 10,
+  "sceneNum": 34,
+  "characterName": "Meryn Trant",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77505"
+  },
+  "seasonNum": 5,
+  "episodeNum": 10,
+  "sceneNum": 36,
+  "characterName": "Jaqen H'ghar",
+  "killedBy": "Jaqen H'ghar"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77505"
+  },
+  "seasonNum": 5,
+  "episodeNum": 10,
+  "sceneNum": 39,
+  "characterName": "Myrcella Baratheon",
+  "killedBy": "Ellaria Sand"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77505"
+  },
+  "seasonNum": 5,
+  "episodeNum": 10,
+  "sceneNum": 63,
+  "characterName": "Jon Snow",
+  "killedBy": "Olly"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77505"
+  },
+  "seasonNum": 5,
+  "episodeNum": 10,
+  "sceneNum": 63,
+  "characterName": "Jon Snow",
+  "killedBy": "Alliser Thorne"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77505"
+  },
+  "seasonNum": 5,
+  "episodeNum": 10,
+  "sceneNum": 63,
+  "characterName": "Jon Snow",
+  "killedBy": "Othell Yarwyck"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77505"
+  },
+  "seasonNum": 5,
+  "episodeNum": 10,
+  "sceneNum": 63,
+  "characterName": "Jon Snow",
+  "killedBy": "Bowen Marsh"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77506"
+  },
+  "seasonNum": 6,
+  "episodeNum": 1,
+  "sceneNum": 13,
+  "characterName": "Bolton Officer",
+  "killedBy": "Brienne of Tarth"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77506"
+  },
+  "seasonNum": 6,
+  "episodeNum": 1,
+  "sceneNum": 13,
+  "characterName": "Bolton Soldier",
+  "killedBy": "Podrick Payne"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77506"
+  },
+  "seasonNum": 6,
+  "episodeNum": 1,
+  "sceneNum": 24,
+  "characterName": "Areo Hotah",
+  "killedBy": "Tyene Sand"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77506"
+  },
+  "seasonNum": 6,
+  "episodeNum": 1,
+  "sceneNum": 24,
+  "characterName": "Maester Caleotte",
+  "killedBy": "Tyene Sand"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77506"
+  },
+  "seasonNum": 6,
+  "episodeNum": 1,
+  "sceneNum": 25,
+  "characterName": "Doran Martell",
+  "killedBy": "Ellaria Sand"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77506"
+  },
+  "seasonNum": 6,
+  "episodeNum": 1,
+  "sceneNum": 26,
+  "characterName": "Trystane Martell",
+  "killedBy": "Obara Sand"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77507"
+  },
+  "seasonNum": 6,
+  "episodeNum": 2,
+  "sceneNum": 16,
+  "characterName": "King's Landing Boaster",
+  "killedBy": "Gregor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77507"
+  },
+  "seasonNum": 6,
+  "episodeNum": 2,
+  "sceneNum": 32,
+  "characterName": "Roose Bolton",
+  "killedBy": "Ramsay Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77507"
+  },
+  "seasonNum": 6,
+  "episodeNum": 2,
+  "sceneNum": 33,
+  "characterName": "Walda Bolton",
+  "killedBy": "Ramsay Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77507"
+  },
+  "seasonNum": 6,
+  "episodeNum": 2,
+  "sceneNum": 33,
+  "characterName": "Newborn Bolton",
+  "killedBy": "Ramsay Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77507"
+  },
+  "seasonNum": 6,
+  "episodeNum": 2,
+  "sceneNum": 38,
+  "characterName": "Balon Greyjoy",
+  "killedBy": "Euron Greyjoy"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77508"
+  },
+  "seasonNum": 6,
+  "episodeNum": 3,
+  "sceneNum": 5,
+  "characterName": "Gerold Hightower",
+  "killedBy": "Young Ned Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77508"
+  },
+  "seasonNum": 6,
+  "episodeNum": 3,
+  "sceneNum": 6,
+  "characterName": "Arthur Dayne",
+  "killedBy": "Howland Reed"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77508"
+  },
+  "seasonNum": 6,
+  "episodeNum": 3,
+  "sceneNum": 6,
+  "characterName": "Arthur Dayne",
+  "killedBy": "Young Ned Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77508"
+  },
+  "seasonNum": 6,
+  "episodeNum": 3,
+  "sceneNum": 31,
+  "characterName": "Shaggydog",
+  "killedBy": "Smalljon Umber"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77508"
+  },
+  "seasonNum": 6,
+  "episodeNum": 3,
+  "sceneNum": 34,
+  "characterName": "Alliser Thorne",
+  "killedBy": "Jon Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77508"
+  },
+  "seasonNum": 6,
+  "episodeNum": 3,
+  "sceneNum": 34,
+  "characterName": "Othell Yarwyck",
+  "killedBy": "Jon Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77508"
+  },
+  "seasonNum": 6,
+  "episodeNum": 3,
+  "sceneNum": 34,
+  "characterName": "Bowen Marsh",
+  "killedBy": "Jon Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77508"
+  },
+  "seasonNum": 6,
+  "episodeNum": 3,
+  "sceneNum": 34,
+  "characterName": "Olly",
+  "killedBy": "Jon Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77509"
+  },
+  "seasonNum": 6,
+  "episodeNum": 4,
+  "sceneNum": 17,
+  "characterName": "Akho",
+  "killedBy": "Daario Naharis"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77509"
+  },
+  "seasonNum": 6,
+  "episodeNum": 4,
+  "sceneNum": 17,
+  "characterName": "Iggo",
+  "killedBy": "Daario Naharis"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77509"
+  },
+  "seasonNum": 6,
+  "episodeNum": 4,
+  "sceneNum": 29,
+  "characterName": "Osha",
+  "killedBy": "Ramsay Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77509"
+  },
+  "seasonNum": 6,
+  "episodeNum": 4,
+  "sceneNum": 38,
+  "characterName": "Khal Moro",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77509"
+  },
+  "seasonNum": 6,
+  "episodeNum": 4,
+  "sceneNum": 38,
+  "characterName": "Dothraki Bloodrider #1",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77509"
+  },
+  "seasonNum": 6,
+  "episodeNum": 4,
+  "sceneNum": 38,
+  "characterName": "Dothraki Bloodrider #2",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77509"
+  },
+  "seasonNum": 6,
+  "episodeNum": 4,
+  "sceneNum": 38,
+  "characterName": "Khal Forzho",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77509"
+  },
+  "seasonNum": 6,
+  "episodeNum": 4,
+  "sceneNum": 38,
+  "characterName": "Khal Brozho",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77509"
+  },
+  "seasonNum": 6,
+  "episodeNum": 4,
+  "sceneNum": 38,
+  "characterName": "Khal Rhalko",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77509"
+  },
+  "seasonNum": 6,
+  "episodeNum": 4,
+  "sceneNum": 38,
+  "characterName": "Khal Qorro",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750a"
+  },
+  "seasonNum": 6,
+  "episodeNum": 5,
+  "sceneNum": 27,
+  "characterName": "Euron Greyjoy",
+  "killedBy": "Aeron Greyjoy"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750a"
+  },
+  "seasonNum": 6,
+  "episodeNum": 5,
+  "sceneNum": 58,
+  "characterName": "White Walker",
+  "killedBy": "Meera Reed"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750a"
+  },
+  "seasonNum": 6,
+  "episodeNum": 5,
+  "sceneNum": 59,
+  "characterName": "Summer",
+  "killedBy": "Wights"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750a"
+  },
+  "seasonNum": 6,
+  "episodeNum": 5,
+  "sceneNum": 66,
+  "characterName": "Three-Eyed Raven",
+  "killedBy": "The Night King"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750a"
+  },
+  "seasonNum": 6,
+  "episodeNum": 5,
+  "sceneNum": 68,
+  "characterName": "Leaf",
+  "killedBy": "Wights"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750a"
+  },
+  "seasonNum": 6,
+  "episodeNum": 5,
+  "sceneNum": 83,
+  "characterName": "Hodor",
+  "killedBy": "Wights"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750c"
+  },
+  "seasonNum": 6,
+  "episodeNum": 7,
+  "sceneNum": 45,
+  "characterName": "Brother Ray",
+  "killedBy": "Lem Lemoncloak"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750d"
+  },
+  "seasonNum": 6,
+  "episodeNum": 8,
+  "sceneNum": 4,
+  "characterName": "Steve",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750d"
+  },
+  "seasonNum": 6,
+  "episodeNum": 8,
+  "sceneNum": 5,
+  "characterName": "Morgan",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750d"
+  },
+  "seasonNum": 6,
+  "episodeNum": 8,
+  "sceneNum": 5,
+  "characterName": "Riddell",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750d"
+  },
+  "seasonNum": 6,
+  "episodeNum": 8,
+  "sceneNum": 6,
+  "characterName": "Gatins",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750d"
+  },
+  "seasonNum": 6,
+  "episodeNum": 8,
+  "sceneNum": 45,
+  "characterName": "Lem Lemoncloak",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750d"
+  },
+  "seasonNum": 6,
+  "episodeNum": 8,
+  "sceneNum": 49,
+  "characterName": "Lady Crane",
+  "killedBy": "The Waif"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750d"
+  },
+  "seasonNum": 6,
+  "episodeNum": 8,
+  "sceneNum": 50,
+  "characterName": "The Waif",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750e"
+  },
+  "seasonNum": 6,
+  "episodeNum": 9,
+  "sceneNum": 11,
+  "characterName": "Razdal mo Eraz",
+  "killedBy": "Grey Worm"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750e"
+  },
+  "seasonNum": 6,
+  "episodeNum": 9,
+  "sceneNum": 11,
+  "characterName": "Belicho Paenymion",
+  "killedBy": "Grey Worm"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750e"
+  },
+  "seasonNum": 6,
+  "episodeNum": 9,
+  "sceneNum": 35,
+  "characterName": "Rickon Stark",
+  "killedBy": "Ramsay Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750e"
+  },
+  "seasonNum": 6,
+  "episodeNum": 9,
+  "sceneNum": 56,
+  "characterName": "Smalljon Umber",
+  "killedBy": "Tormund Giantsbane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750e"
+  },
+  "seasonNum": 6,
+  "episodeNum": 9,
+  "sceneNum": 62,
+  "characterName": "Wun Wun",
+  "killedBy": "Ramsay Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750e"
+  },
+  "seasonNum": 6,
+  "episodeNum": 9,
+  "sceneNum": 70,
+  "characterName": "Ramsay Snow",
+  "killedBy": "Sansa Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 29,
+  "characterName": "Grand Maester Pycelle",
+  "killedBy": "Frances"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 29,
+  "characterName": "Grand Maester Pycelle",
+  "killedBy": "Little Bird #3"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 29,
+  "characterName": "Grand Maester Pycelle",
+  "killedBy": "Little Bird #4"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 29,
+  "characterName": "Grand Maester Pycelle",
+  "killedBy": "Little Bird #5"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 29,
+  "characterName": "Grand Maester Pycelle",
+  "killedBy": "Little Bird #6"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 29,
+  "characterName": "Grand Maester Pycelle",
+  "killedBy": "Little Bird #7"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 47,
+  "characterName": "Lancel Lannister",
+  "killedBy": "Cersei Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 48,
+  "characterName": "Margaery Tyrell",
+  "killedBy": "Cersei Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 48,
+  "characterName": "High Sparrow",
+  "killedBy": "Cersei Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 48,
+  "characterName": "Loras Tyrell",
+  "killedBy": "Cersei Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 48,
+  "characterName": "Mace Tyrell",
+  "killedBy": "Cersei Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 48,
+  "characterName": "Kevan Lannister",
+  "killedBy": "Cersei Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 54,
+  "characterName": "Tommen Baratheon",
+  "killedBy": "Tommen Baratheon"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 74,
+  "characterName": "Lothar Frey",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 74,
+  "characterName": "Black Walder Rivers",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7750f"
+  },
+  "seasonNum": 6,
+  "episodeNum": 10,
+  "sceneNum": 75,
+  "characterName": "Walder Frey",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77511"
+  },
+  "seasonNum": 7,
+  "episodeNum": 2,
+  "sceneNum": 47,
+  "characterName": "Obara Sand",
+  "killedBy": "Euron Greyjoy"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77511"
+  },
+  "seasonNum": 7,
+  "episodeNum": 2,
+  "sceneNum": 48,
+  "characterName": "Nymeria Sand",
+  "killedBy": "Euron Greyjoy"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77512"
+  },
+  "seasonNum": 7,
+  "episodeNum": 3,
+  "sceneNum": 16,
+  "characterName": "Tyene Sand",
+  "killedBy": "Cersei Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77512"
+  },
+  "seasonNum": 7,
+  "episodeNum": 3,
+  "sceneNum": 49,
+  "characterName": "Olenna Tyrell",
+  "killedBy": "Jaime Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77514"
+  },
+  "seasonNum": 7,
+  "episodeNum": 5,
+  "sceneNum": 5,
+  "characterName": "Randyll Tarly",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77514"
+  },
+  "seasonNum": 7,
+  "episodeNum": 5,
+  "sceneNum": 5,
+  "characterName": "Dickon Tarly",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77514"
+  },
+  "seasonNum": 7,
+  "episodeNum": 5,
+  "sceneNum": 32,
+  "characterName": "Kevin Eldon",
+  "killedBy": "Gendry"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77514"
+  },
+  "seasonNum": 7,
+  "episodeNum": 5,
+  "sceneNum": 32,
+  "characterName": "Laurence Spellman",
+  "killedBy": "Gendry"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77515"
+  },
+  "seasonNum": 7,
+  "episodeNum": 6,
+  "sceneNum": 26,
+  "characterName": "White Walker",
+  "killedBy": "Jon Snow"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77515"
+  },
+  "seasonNum": 7,
+  "episodeNum": 6,
+  "sceneNum": 47,
+  "characterName": "Viserion",
+  "killedBy": "The Night King"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77515"
+  },
+  "seasonNum": 7,
+  "episodeNum": 6,
+  "sceneNum": 57,
+  "characterName": "Benjen Stark",
+  "killedBy": "Wights"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77516"
+  },
+  "seasonNum": 7,
+  "episodeNum": 7,
+  "sceneNum": 48,
+  "characterName": "Harrag",
+  "killedBy": "Theon Greyjoy"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77516"
+  },
+  "seasonNum": 7,
+  "episodeNum": 7,
+  "sceneNum": 51,
+  "characterName": "Petyr Baelish",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77517"
+  },
+  "seasonNum": 8,
+  "episodeNum": 1,
+  "sceneNum": 82,
+  "characterName": "Ned Umber",
+  "killedBy": "The Night King"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77519"
+  },
+  "seasonNum": 8,
+  "episodeNum": 3,
+  "sceneNum": 119,
+  "characterName": "Eddison Tollett",
+  "killedBy": "Wight"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77519"
+  },
+  "seasonNum": 8,
+  "episodeNum": 3,
+  "sceneNum": 212,
+  "characterName": "Lyanna Mormont",
+  "killedBy": "Wun Wun Wight"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77519"
+  },
+  "seasonNum": 8,
+  "episodeNum": 3,
+  "sceneNum": 212,
+  "characterName": "Wun Wun Wight",
+  "killedBy": "Lyanna Mormont"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77519"
+  },
+  "seasonNum": 8,
+  "episodeNum": 3,
+  "sceneNum": 222,
+  "characterName": "Beric Dondarrion",
+  "killedBy": "Wights"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77519"
+  },
+  "seasonNum": 8,
+  "episodeNum": 3,
+  "sceneNum": 271,
+  "characterName": "Theon Greyjoy",
+  "killedBy": "The Night King"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77519"
+  },
+  "seasonNum": 8,
+  "episodeNum": 3,
+  "sceneNum": 278,
+  "characterName": "The Night King",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77519"
+  },
+  "seasonNum": 8,
+  "episodeNum": 3,
+  "sceneNum": 278,
+  "characterName": "White Walker",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77519"
+  },
+  "seasonNum": 8,
+  "episodeNum": 3,
+  "sceneNum": 279,
+  "characterName": "Viserion",
+  "killedBy": "Arya Stark"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd77519"
+  },
+  "seasonNum": 8,
+  "episodeNum": 3,
+  "sceneNum": 287,
+  "characterName": "Jorah Mormont",
+  "killedBy": "Wights"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7751a"
+  },
+  "seasonNum": 8,
+  "episodeNum": 4,
+  "sceneNum": 70,
+  "characterName": "Rhaegal",
+  "killedBy": "Euron Greyjoy"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7751a"
+  },
+  "seasonNum": 8,
+  "episodeNum": 4,
+  "sceneNum": 110,
+  "characterName": "Missandei",
+  "killedBy": "Gregor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7751b"
+  },
+  "seasonNum": 8,
+  "episodeNum": 5,
+  "sceneNum": 13,
+  "characterName": "Lord Varys",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7751b"
+  },
+  "seasonNum": 8,
+  "episodeNum": 5,
+  "sceneNum": 77,
+  "characterName": "Harry Strickland",
+  "killedBy": "Grey Worm"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7751b"
+  },
+  "seasonNum": 8,
+  "episodeNum": 5,
+  "sceneNum": 172,
+  "characterName": "Euron Greyjoy",
+  "killedBy": "Jaime Lannister"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7751b"
+  },
+  "seasonNum": 8,
+  "episodeNum": 5,
+  "sceneNum": 177,
+  "characterName": "Qyburn",
+  "killedBy": "Gregor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7751b"
+  },
+  "seasonNum": 8,
+  "episodeNum": 5,
+  "sceneNum": 203,
+  "characterName": "Sandor Clegane",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7751b"
+  },
+  "seasonNum": 8,
+  "episodeNum": 5,
+  "sceneNum": 203,
+  "characterName": "Gregor Clegane",
+  "killedBy": "Sandor Clegane"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7751b"
+  },
+  "seasonNum": 8,
+  "episodeNum": 5,
+  "sceneNum": 215,
+  "characterName": "Eleanor",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7751b"
+  },
+  "seasonNum": 8,
+  "episodeNum": 5,
+  "sceneNum": 215,
+  "characterName": "Eleanor's Daughter",
+  "killedBy": "Daenerys Targaryen"
+},{
+  "_id": {
+    "$oid": "65aa4b003c830ea6acd7751c"
+  },
+  "seasonNum": 8,
+  "episodeNum": 6,
+  "sceneNum": 39,
+  "characterName": "Daenerys Targaryen",
+  "killedBy": "Jon Snow"
+}]

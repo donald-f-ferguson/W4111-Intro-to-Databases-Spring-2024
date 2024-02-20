@@ -1,4 +1,36 @@
 import json
+import pandas as pd
+
+
+character_relationships = [
+ 'abducted',
+ 'abductedBy',
+ 'allies',
+ 'guardedBy',
+ 'guardianOf'
+ 'killed',
+ 'killedBy',
+ 'marriedEngaged',
+ 'parentOf',
+ 'parents',
+ 'servedBy',
+ 'serves',
+ 'sibling',
+ 'siblings',
+ ]
+
+character_properties = [
+    'characterName',
+'actorLink',
+ 'actorName',
+ 'characterImageFull',
+ 'characterImageThumb',
+ 'characterLink',
+ 'characterName',
+'kingsGuard',
+ 'nickname',
+ 'royal'
+]
 
 
 def get_json_from_file(file_name, top_element_remove=None):
@@ -102,32 +134,91 @@ def get_episodes_basics_scenes_characters(episodes):
 def process_episodes():
     episodes = get_episodes()
     episodes_basics = get_episodes_basics(episodes)
-    with open("./episodes_basics.json", "w") as out_file:
+    with open("episodes_basics.json", "w") as out_file:
         json.dump(episodes_basics, out_file, indent=2)
 
 def process_locations():
     episodes = get_episodes()
     episodes_locations = get_episodes_basics_location(episodes)
-    with open("./episodes_locations.json", "w") as out_file:
+    with open("episodes_locations.json", "w") as out_file:
         json.dump(episodes_locations, out_file, indent=2)
 
 
 def process_scenes():
     episodes = get_episodes()
     scenes = get_episodes_basics_scenes(episodes)
-    with open("./episodes_scenes.json", "w") as out_file:
+    with open("episodes_scenes.json", "w") as out_file:
         json.dump(scenes, out_file, indent=2)
 
 
-def process_characters():
+def process_episodes_characters():
     episodes = get_episodes()
     characters = get_episodes_basics_scenes_characters(episodes)
-    with open("./episodes_characters.json", "w") as out_file:
+    with open("episodes_characters.json", "w") as out_file:
         json.dump(characters, out_file, indent=2)
 
 
+def get_characters():
+    fn = "/Users/donaldferguson/Dropbox/000/000-Data/GoT/characters.json"
+    result = get_json_from_file(fn, "characters")
+    return result
+
+
+def get_characters_basics(characters):
+
+    basic_keys = character_properties
+    result = []
+
+    for c in characters:
+        new_c = {k:c.get(k, None) for k in basic_keys}
+        result.append(new_c)
+
+    return result
+
+def process_characters_core():
+    the_characters = get_characters()
+    the_characters = get_characters_basics(the_characters)
+    with open("characters_basic.json", "w") as out_file:
+        json.dump(the_characters, out_file, indent=2)
+
+
+def get_character_relationship(c):
+
+    result = []
+    source_character = c['characterName']
+
+    for r in character_relationships:
+
+        related_characters = c.get(r, None)
+        if related_characters:
+            for t in related_characters:
+                new_r = {
+                    "sourceCharacter": source_character,
+                    "relationship": r,
+                    "targetCharacter": t
+                }
+                result.append(new_r)
+
+    return result
+
+
+def process_characters_relationships():
+    the_characters = get_characters()
+    result = []
+
+    for c in the_characters:
+        tmp = get_character_relationship(c)
+        result.extend(tmp)
+
+    with open("character_relationships.json", "w") as out_file:
+        json.dump(result, out_file, indent=2)
+
+
 if __name__ == "__main__":
-    process_episodes()
-    process_locations()
-    process_scenes()
-    process_characters()
+    # process_episodes()
+    # process_locations()
+    # process_scenes()
+    # process_episodes_characters()
+    # process_characters_core()
+    process_characters_relationships()
+
