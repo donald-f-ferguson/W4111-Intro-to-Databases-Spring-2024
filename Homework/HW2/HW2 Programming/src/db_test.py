@@ -5,7 +5,7 @@ from db import DB
 class DBTest(unittest.TestCase):
     def run_test_table(self, func, tests):
         for args, want in tests:
-            self.assertEqual(func(*args), want)
+            self.assertEqual(want, func(*args))
 
     def test_build_select_query(self):
         # Table-based testing: https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
