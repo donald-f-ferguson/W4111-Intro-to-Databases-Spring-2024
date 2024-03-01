@@ -41,6 +41,14 @@ async def healthcheck():
 async def get_students(req: Request):
 	"""Gets all students that satisfy the specified query parameters.
 
+	GET http://0.0.0.0:8002/students?email=dff9@columbia.edu&iq=50
+
+	select * from students where email='dff9@columbia.edu' and iq='50'
+
+	GET http://0.0.0.0:8002/students?email=dff9@columbia.edu&iq=50&fields=last_name,iq
+
+	select last_name, iq from students where email='dff9@columbia.edu' and iq='50'
+
 	For instance,
 		GET http://0.0.0.0:8002/students
 	should return all attributes for all students.
@@ -63,7 +71,16 @@ async def get_students(req: Request):
 	"""
 
 	# Use `dict(req.query_params)` to access query parameters
-	pass
+
+	try:
+		# raise NotImplemented()
+		result = [
+			{"cat": True},
+			{"canary": "Bird"}
+		]
+	except Exception as e:
+		response = JSONResponse(content=result, status_code=200)
+
 
 @app.get("/students/{student_id}")
 async def get_student(student_id: int):
